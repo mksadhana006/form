@@ -2,7 +2,7 @@
 
 ### Description
 
-This project is a simple login form created using HTML and CSS.
+This project is a simple login form created using HTML, CSS and javascript.
 It focuses on user interface design and basic form structure.
 No backend authentication or database is included.
 
